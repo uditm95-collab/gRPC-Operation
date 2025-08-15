@@ -1,0 +1,3 @@
+<ItemGroup>
+  <Protobuf Include="Protos\greeter.proto" GrpcServices="Client" />
+</ItemGroup>
